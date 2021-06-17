@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "37c6b7ffef5ec439b8cd9625fe8faeac"
+build_time: [1618064207, 5857000]
+inputs:
+  "/Users/kakhasepashvili/Documents/Apps/Blinkie/collectionview XIB/infoCollectionViewCell.swift": [1617820589, 0]
+  "/Users/kakhasepashvili/Documents/Apps/Blinkie/Blinkie/ViewController.swift": [1617815368, 0]
+  "/Users/kakhasepashvili/Documents/Apps/Blinkie/Blinkie/AppDelegate.swift": !dirty [1618063971, 369622199]
+  "/Users/kakhasepashvili/Documents/Apps/Blinkie/Blinkie/SceneDelegate.swift": [1617779653, 0]
+  "/Users/kakhasepashvili/Documents/Apps/Blinkie/Blinkie/firstPageViewController.swift": [1617988045, 122253179]
+  "/Users/kakhasepashvili/Documents/Apps/Blinkie/Blinkie/registerViewController.swift": [1617816107, 0]
